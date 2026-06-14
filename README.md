@@ -1,6 +1,6 @@
-# 👋 Hola, soy Kevin Josué Sáenz
+# Kevin Sáenz
 
-🎓 Estudiante de El Salvador interesado en programación, tecnología y arquitectura.
+Estudiante y desarrollador de software
 
 ---
 
