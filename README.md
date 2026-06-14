@@ -76,3 +76,7 @@
 ---
 
 > "El aprendizaje constante es la mejor inversión para el futuro."
+<p align="center">
+  Gracias por visitar mi perfil ⭐
+</p>
+
