@@ -1,49 +1,58 @@
 # 👋 Hola, soy Kevin Josué Sáenz
 
-🎓 Estudiante de El Salvador apasionado por la tecnología, la ingeniería y el aprendizaje continuo.
+🎓 Estudiante de El Salvador interesado en programación, tecnología y arquitectura.
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un estudiante interesado en el mundo de la informática, la arquitectura y la tecnología. Me gusta aprender nuevas herramientas, explorar cómo funcionan los sistemas informáticos y desarrollar habilidades que me ayuden en mi futuro profesional.
-
-
----
-
-## 💡 Intereses
-
-- 💻 Tecnología e informática
-- 🏗️ Arquitectura
-- 🔧 Hardware y computadoras
-- 🚌 Transporte y autobuses
-- 📚 Aprendizaje continuo
-- 🎵 Música
+- 💻 Aprendiendo desarrollo de software.
+- ☕ Trabajo con Java.
+- 🏗️ Interesado en arquitectura y tecnología.
+- 📚 Siempre buscando aprender algo nuevo.
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## 🚀 Tecnologías
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code"/>
+  </a>
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📚 Áreas de Interés
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsaenz503&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsaenz503&layout=compact&theme=tokyonight)
+- 🌐 Desarrollo Web
+- ☕ Backend con Java
+- 🗄️ Bases de Datos PostgreSQL
+- ⚙️ Automatización de Sistemas
+- 🔧 Control de Versiones con Git y GitHub
 
 ---
 
 ## 🎯 Objetivos
 
-- Aprender programación.
+- Aprender más sobre desarrollo de software.
+- Construir proyectos personales.
 - Ingresar a la universidad.
-- Desarrollar proyectos tecnológicos.
 - Mejorar mis conocimientos en informática y arquitectura.
 
 ---
@@ -51,12 +60,6 @@ Soy un estudiante interesado en el mundo de la informática, la arquitectura y l
 ## 🌎 Ubicación
 
 📍 El Salvador
-
----
-
-## 📫 Contacto
-
-GitHub: https://github.com/kevinsaenz503
 
 ---
 
