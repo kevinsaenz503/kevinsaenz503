@@ -14,28 +14,38 @@
 ---
 
 ## 🚀 Tecnologías
-
 <p align="center">
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code"/>
-  </a>
-</p>
 
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+</a>
+
+</p>
+  
 ---
 
 ## 📚 Áreas de Interés
