@@ -8,7 +8,6 @@
 
 Soy un estudiante interesado en el mundo de la informática, la arquitectura y la tecnología. Me gusta aprender nuevas herramientas, explorar cómo funcionan los sistemas informáticos y desarrollar habilidades que me ayuden en mi futuro profesional.
 
-Además, soy aficionado al transporte y a los autobuses, especialmente a conocer sus motores, transmisiones y características técnicas.
 
 ---
 
