@@ -1,13 +1,15 @@
-# Kevin Sáenz
+<h1 align="center">Kevin Josué</h1>
 
-Estudiante y desarrollador de software
+<p align="center">
+  <b>Desarrollador y Estudiante de Software</b>
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
 - 💻 Aprendiendo desarrollo de software.
-- ☕ Trabajo con Java.
+- ☕ Trabajo con Java y bases de datos.
 - 🏗️ Interesado en arquitectura y tecnología.
 - 📚 Siempre buscando aprender algo nuevo.
 
